@@ -1,8 +1,8 @@
 # TripEnjoy-Version1
 
-Webapplication with .net 8
-+ Asp.net api
-+ Asp.net razorpage
+## Technology 
++ Asp.Net core 8 Api
++ Asp.Net core 8 RazorPage
 + Jwt authentication
 + SignalR
-- N-tier Architecture
+
